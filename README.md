@@ -5,5 +5,5 @@
 Workflow: 
 1) Setup classes for each object (each ship and invader)
 2) Give each class functions for their "abilities" aka shooting and moving
-3) Define a main where everything interacts
+3) Define a main where everything interacts (the actual game)
 4) Provide a main menu
