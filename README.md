@@ -1,4 +1,6 @@
 # space-invaders
+
+![example](/space-invaders.gif)
  
  Based off Techwithtim's tutorial: https://www.youtube.com/watch?v=Q-__8Xw9KTM (got assets from there and followed along)
 
